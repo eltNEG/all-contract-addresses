@@ -1,0 +1,8 @@
+{
+    "providerURL": "",
+    "startBlock": 14473044,
+    "jsonFileName": "allETHContractAddress",
+    "oldFilePath": "./allAddresses.json",
+    "providerType": "WebSocketProvider",
+    "sleepMilliseconds": 100
+}
